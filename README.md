@@ -41,3 +41,6 @@ git remote set-url origin https://github.com/Gyepike/Git-Vizsga0121.git
 set new remote 
 git commit -m " updated README.md"
 
+git push --set-upstream origin console
+
+
