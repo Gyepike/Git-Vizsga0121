@@ -25,7 +25,11 @@ git checkout console
 
 updated files 
 
-
 git status  // check 
 git add .   // add app.js README
 git commit -m "update app.js  updated README.md"
+
+changed 
+background-image: linear-gradient(to right, yellow, green); 
+background-image: linear-gradient(0deg, rgb(71, 71, 71) 23.8%, rgb(221,224,252) 92%);
+
