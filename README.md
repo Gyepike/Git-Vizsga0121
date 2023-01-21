@@ -33,3 +33,11 @@ changed
 background-image: linear-gradient(to right, yellow, green); 
 background-image: linear-gradient(0deg, rgb(71, 71, 71) 23.8%, rgb(221,224,252) 92%);
 
+git status  // check 
+git add .   // add update files 
+git commit -m "update sytle.css "
+
+git remote set-url origin https://github.com/Gyepike/Git-Vizsga0121.git
+set new remote 
+git commit -m " updated README.md"
+
